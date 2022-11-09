@@ -1,2 +1,4 @@
-# OU-20936-Data-Science-Workshop
-Notebooks for the course in the Open University of Israel 
+# מחברות הקוד מהסדנה למדעי הנתונים באוניברסיטה הפתוחה
+כאן תמצאו את מחברות הקוד המלוות את *ההרחבה* למדריך הלמידה.
+
+אם לא הגעתם לכאן דרך אתר הקורסף, קראו עליו [כאן](https://www.openu.ac.il/courses/20936.htm).
